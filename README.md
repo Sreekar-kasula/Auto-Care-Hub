@@ -3,7 +3,6 @@ Introduction
 It is Spring Boot Project for Web Application which uses to Booking the Services for your car in Good Condition to make your Journey Smooth & Comfortable way. 
 
 Features
-
 User-Friendly Interface: Animation and Responsive Web Design Intuitive UI built with HTML, CSS and JavaScript.
 User Login: Secure Login User Interface for efficient and secure.
 Service Booking: Easy to Book-a-Slot for your Convenience. 
@@ -35,7 +34,8 @@ Tech Stacks
 
 
 
-Purpose
+Purpose:
+
 This Online Car Service Booking is used to make user-friendly and simplify the process of Car Service Booking to ensure Vehicle maintenance is hassle-free and accessible, enhance you Travel Experience.
 
 Project Structure
