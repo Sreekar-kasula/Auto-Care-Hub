@@ -46,12 +46,17 @@ Project Structure
 1.	source/main/java/com/example/Service_Online
 
     i.	  Bean/: Data Modules or Business Logic based on the login and booking slot values which for helps to store in Data Base.
+  	
     ii.	  Controller/: Web Controller also makes connection for the Back-End.
+  	
     iii.	Service/: Service Layer for hold business layer and coordinates between layers.
+  	
     iv. 	Repository/: Data Access layer for giving the permission to particular CURD operation in MySQL.
 
 2.	source/main/resource
 
     i.	  Templates/: using to design and implied the HTML in thymeleaf.
+  	
     ii.	  Static/: Used to make the load the CSS and JavaScript.
+  	
     iii.	Application.properties: Configurations for the Data Base.
