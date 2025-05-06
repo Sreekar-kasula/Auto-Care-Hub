@@ -28,10 +28,10 @@ Variety of Car Types for Services:
 9.	Electric Vehicles (EVs)
 
 Tech Stacks
-•	Back-End: Java (Spring Boot)
-•	Data Base: MySQL
-•	Front-End: HTML, CSS and JavaScript
-•	Built & Run: Maven 
+1.	Back-End: Java (Spring Boot)
+2.	Data Base: MySQL
+3.	Front-End: HTML, CSS and JavaScript
+4.	Built & Run: Maven 
 
 
 
