@@ -8,6 +8,7 @@ User Login: Secure Login User Interface for efficient and secure.
 Service Booking: Easy to Book-a-Slot for your Convenience. 
 
 Variety of Services:
+
     1.	Basic Car Wash
     2.	Interior Cleaning
     3.	Full Body Polish
@@ -16,6 +17,7 @@ Variety of Services:
     6.	Wheel Alignment & Balencing 
 
 Variety of Car Types for Services:
+
     1.	Hatchbacks
     2.	Sedans
     3.	SUVs
@@ -27,10 +29,11 @@ Variety of Car Types for Services:
     9.	Electric Vehicles (EVs)
 
 Tech Stacks
-1.	Back-End: Java (Spring Boot)
-2.	Data Base: MySQL
-3.	Front-End: HTML, CSS and JavaScript
-4.	Built & Run: Maven 
+
+    1.	Back-End: Java (Spring Boot)
+    2.	Data Base: MySQL
+    3.	Front-End: HTML, CSS and JavaScript
+    4.	Built & Run: Maven 
 
 
 
